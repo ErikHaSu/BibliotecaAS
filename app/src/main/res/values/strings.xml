@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="compartir">Compartir</string>
+    <string name="ingrese">Ingrese su frase de busqueda</string>
+    <string name="buscar">Buscar</string>
+    <string name="acepter">Aceptar</string>
+    <string name="sugerir">Escriba un titulo o autor</string>
+    <string name="detalles"> Detalles del libro </string>
+</resources>
